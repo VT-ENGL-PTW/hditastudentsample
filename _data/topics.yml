@@ -28,6 +28,11 @@
   child: true
   publish: true
   
+- topic: Recommended Help/Support Features
+  filename: r-support.html
+  child: false
+  publish: true
+  
 - topic: Recommended Keyboard Shortcuts for LibreOffice
   filename: r-shortcuts.html
   child: false
