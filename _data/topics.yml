@@ -1,10 +1,5 @@
-- topic: LibreOffice 4.3.0 Office Suite
-  filename: c-intro.html
-  child: false
-  publish: true
-
 - topic: How to download and install LibreOffice
-  filename: t-downloadAndInstall.html
+  filename: t-downloadandinstall.html
   child: false
   publish: true
 
@@ -27,12 +22,12 @@
   filename: t-presentation.html
   child: true
   publish: true
-  
+
 - topic: Recommended Help/Support Features
   filename: r-support.html
   child: false
   publish: true
-  
+
 - topic: Recommended Keyboard Shortcuts for LibreOffice
   filename: r-shortcuts.html
   child: false
