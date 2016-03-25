@@ -4,6 +4,8 @@ Demo for [Carlos Evia's presentation](http://cm-strategies.com/day1-agenda/evia/
 
 This repository includes the source code, with HDITA topics and the Jekyll structure for HTML5 presentation. The Jekyll transformation site can be seen on the [gh-pages branch of this repository](http://vt-engl-ptw.github.io/hditastudentsample/)
 
+It also includes a DITA Open Toolkit version of the HDITA topics with HTML5 and PDF deliverables in the `out` folder.
+
 ## Credits
 - Content originally created by Brittany Barnes in Carlos Evia's ENGL 3764: Technical Writing course (used with permission)
 
